@@ -1,3 +1,3 @@
-# Roblox-Lua-Script-Progresso
+# Projeto Tool
 
-Aqui esta alguns projetos do meu aprendizado na linguagem Brasileira Lua, na Engine Roblox Studio.
+Projeto de uma Tool funcional na engine Roblox Studio, feita na linguagem Luau.
